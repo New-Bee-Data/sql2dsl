@@ -12,7 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <elasticsearch.version>5.4.0</elasticsearch.version>
         <commons.lang3.version>3.4</commons.lang3.version>
-        <commons.collections.version>3.2.1</commons.collections.version>
+        <commons.collections.version>3.2.2</commons.collections.version>
         <druid.version>1.0.24</druid.version>
         <guava.version>18.0</guava.version>
         <logback.version>1.2.3</logback.version>
